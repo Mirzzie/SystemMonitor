@@ -1,6 +1,6 @@
 # SystemMonitor
 
-A Cloud Native System Monitoring App using Amazon EKS
+A Cloud Native System Monitoring Flask App using Amazon EKS
 
 ## Tools and Platforms
 - Docker
